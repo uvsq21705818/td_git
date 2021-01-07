@@ -1,2 +1,2 @@
 # td_git
-td6 gregoire LUCAS lucas FEDERSPIEL
+ce projet permet de créer une calculatrice
